@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @synapsis-20
-- 👀 I’m interested in image analysis and deep learning as relates to plant breeding
+- 👀 I’m interested in image analysis, crop modeling, genomics, and deep learning 
 - 🌱 I’m currently learning procedural modeling in C++
-- 💞️ I’m looking to collaborate on AI approaches to improving plants
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me email jmberlin@ucdavis.edu
 
 <!---
